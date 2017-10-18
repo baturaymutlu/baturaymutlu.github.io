@@ -1,5 +1,5 @@
 {
-  "name": "mehmetkut.github.io",
+  "name": "baturaymutlu.github.io",
   "version": "1.0.0",
   "description": "A Simple Blog",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mehmetkut/mehmetkut.github.io.git"
+    "url": "git+https://github.com/baturaymutlu/baturaymutlu.github.io.git"
   },
   "keywords": [
     "blog"
@@ -16,9 +16,9 @@
   "author": "Mehmet Kut",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mehmetkut/mehmetkut.github.io/issues"
+    "url": "https://github.com/baturaymutlu/baturaymutlu.github.io/issues"
   },
-  "homepage": "https://github.com/mehmetkut/mehmetkut.github.io#readme",
+  "homepage": "https://github.com/baturaymutlu/baturaymutlu.github.io#readme",
   "devDependencies": {
     "gulp": "~3.9.1",
     "gulp-concat": "~2.6.0",

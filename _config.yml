@@ -22,12 +22,12 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/mehmetkut
+  repo:           https://github.com/baturaymutlu
 
 gems: [jekyll-paginate, jekyll-gist]
 
 social:
-  twitter:        mehmetkut
+  twitter:        
   
 permalink:        /:year/:month/:title/
 
